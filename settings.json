@@ -1,0 +1,53 @@
+{
+    // Editor
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "underline",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+
+    // Workbench
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.commandPalette.history": 5,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.horizontalScrolling": true,
+
+    // Window
+    "window.newWindowDimensions": "maximized",
+    "window.restoreFullscreen": true,
+    "window.restoreWindows": "all",
+    "window.zoomLevel": 0,
+
+    // Files
+    "files.associations": {},
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+
+    // Terminal
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+
+    // Search
+    "search.smartCase": true,
+
+    // Debug
+    "debug.inlineValues": true,
+
+    // HTML
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+
+    // Emmet
+    "emmet.triggerExpansionOnTab": true,
+
+    // Python
+    "python.pythonPath": "/usr/local/bin/python3"
+}
