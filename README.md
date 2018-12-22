@@ -8,3 +8,5 @@ To keep the file synced with the repo without the need for copying and pasting, 
 ```
 ln -f settings.json ~/Library/Application\ Support/Code/User/settings.json
 ````
+
+After making changes to the settings.json file you should reload VS Code.
