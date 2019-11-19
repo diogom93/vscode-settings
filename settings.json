@@ -50,5 +50,9 @@
     "emmet.triggerExpansionOnTab": true,
 
     // Python
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "/usr/local/bin/python3",
+
+    // One Dark Pro
+    "oneDarkPro.editorTheme": "Onedark Pro",
+    "oneDarkPro.vivid": true
 }
