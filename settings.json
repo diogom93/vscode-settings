@@ -2,18 +2,19 @@
     // Editor
     "editor.cursorBlinking": "smooth",
     "editor.cursorStyle": "underline",
+    "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "gutter",
     "editor.wordWrap": "on",
     "editor.wrappingIndent": "indent",
 
     // Workbench
-    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.colorTheme": "One Dark Pro",
     "workbench.commandPalette.history": 5,
     "workbench.editor.labelFormat": "short",
     "workbench.editor.tabSizing": "shrink",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.tree.horizontalScrolling": true,
+    "workbench.list.horizontalScrolling": true,
 
     // Window
     "window.newWindowDimensions": "maximized",
