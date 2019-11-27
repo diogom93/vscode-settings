@@ -2,6 +2,7 @@
     // Editor
     "editor.cursorBlinking": "smooth",
     "editor.cursorStyle": "underline",
+    "editor.fontFamily": "FiraCode-Retina, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "gutter",
