@@ -2,58 +2,61 @@
     // Editor
     "editor.cursorBlinking": "smooth",
     "editor.cursorStyle": "underline",
-    "editor.fontFamily": "FiraCode-Retina, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontLigatures": true,
-    "editor.minimap.enabled": false,
-    "editor.renderLineHighlight": "gutter",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.parameterHints.cycle": true,
     "editor.wordWrap": "on",
     "editor.wrappingIndent": "indent",
-
-    // Workbench
-    "workbench.colorTheme": "One Dark Pro",
-    "workbench.commandPalette.history": 5,
-    "workbench.editor.labelFormat": "short",
-    "workbench.editor.tabSizing": "shrink",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.list.horizontalScrolling": true,
-
-    // Window
-    "window.newWindowDimensions": "maximized",
-    "window.restoreFullscreen": true,
-    "window.restoreWindows": "all",
-    "window.zoomLevel": 0,
-
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    // Language specific editor settings
+    "[javascript]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
     // Files
-    "files.associations": {},
-    "files.autoGuessEncoding": true,
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 5000,
     "files.eol": "\n",
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-
-    // Terminal
-    "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorStyle": "line",
-
-    // Search
+    // Workbench
+    "breadcrumbs.icons": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "file-icons",
+    // Window
+    "window.newWindowDimensions": "maximized",
+    // Features
+    "explorer.autoReveal": false,
     "search.smartCase": true,
-
-    // Debug
-    "debug.inlineValues": true,
-
-    // HTML
-    "html.format.indentHandlebars": true,
-    "html.format.indentInnerHtml": true,
-
+    "debug.console.closeOnEnd": true,
+    "scm.defaultViewMode": "tree",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    // Extensions
+    // Bracket Pair Colorizer
+    "bracket-pair-colorizer-2.showBracketsInRuler": true,
+    "bracket-pair-colorizer-2.rulerPosition": "Left",
     // Emmet
     "emmet.triggerExpansionOnTab": true,
-
-    // Python
-    "python.pythonPath": "/usr/local/bin/python3",
-
-    // One Dark Pro
-    "oneDarkPro.editorTheme": "Onedark Pro",
-    "oneDarkPro.vivid": true
+    // Eslint
+    "eslint.alwaysShowStatus": true,
+    "eslint.packageManager": "yarn",
+    // Git
+    "git.autofetch": true,
+    "git.autoStash": true,
+    // GitLens
+    "gitlens.codeLens.enabled": false,
+    "gitlens.views.repositories.location": "scm",
+    "gitlens.views.fileHistory.location": "scm",
+    "gitlens.views.lineHistory.location": "scm",
+    "gitlens.views.compare.location": "scm",
+    "gitlens.views.search.location": "scm",
+    "gitlens.views.search.enabled": false,
+    // NPM
+    "npm.packageManager": "yarn",
+    // Prettier
+    "prettier.requireConfig": true,
 }
