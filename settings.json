@@ -4,6 +4,8 @@
     "editor.cursorStyle": "underline",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.definitionLinkOpensInPeek": true,
+    "editor.fontFamily": "Iosevka-SS02-Extended, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
     "editor.parameterHints.cycle": true,
     "editor.wordWrap": "on",
     "editor.wrappingIndent": "indent",
@@ -35,6 +37,8 @@
     "terminal.integrated.confirmOnExit": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.fontFamily": "Iosevka-Term-SS02",
+    "terminal.integrated.fontSize": 14,
     // Extensions
     // Bracket Pair Colorizer
     "bracket-pair-colorizer-2.showBracketsInRuler": true,
@@ -58,5 +62,5 @@
     // NPM
     "npm.packageManager": "yarn",
     // Prettier
-    "prettier.requireConfig": true,
+    "prettier.requireConfig": true
 }
