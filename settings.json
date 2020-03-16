@@ -39,7 +39,6 @@
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.fontFamily": "Iosevka-Term-SS02",
     "terminal.integrated.fontSize": 14,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     // Extensions
     // Bracket Pair Colorizer
     "bracket-pair-colorizer-2.showBracketsInRuler": true,
