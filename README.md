@@ -6,5 +6,5 @@ Feel free to use them as a starting point to create your own personal configurat
 To keep the file synced with the repo without the need for copying and pasting, go to the repository folder and type the following command in your terminal (macOS):
 
 ```
-ln -s -f settings.json ~/Library/Application\ Support/Code/User/settings.json
+ln -s -f ~/path/to/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ````
