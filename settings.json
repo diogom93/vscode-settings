@@ -1,17 +1,19 @@
 {
     // Editor
     "editor.cursorBlinking": "smooth",
-    "editor.cursorStyle": "underline",
     "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "underline",
     "editor.definitionLinkOpensInPeek": true,
     "editor.fontFamily": "Iosevka-SS02-Extended, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
     "editor.fontSize": 12,
-    "editor.parameterHints.cycle": true,
-    "editor.wordWrap": "on",
-    "editor.wrappingIndent": "indent",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
+    "editor.parameterHints.cycle": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
     // Language specific editor settings
     "[javascript]": {
         "editor.insertSpaces": true,
