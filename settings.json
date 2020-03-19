@@ -3,6 +3,7 @@
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorStyle": "underline",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.definitionLinkOpensInPeek": true,
     "editor.fontFamily": "Iosevka-SS02-Extended, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
