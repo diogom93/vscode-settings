@@ -31,7 +31,6 @@
     // Window
     "window.newWindowDimensions": "maximized",
     // Features
-    "explorer.autoReveal": false,
     "search.smartCase": true,
     "debug.console.closeOnEnd": true,
     "scm.defaultViewMode": "tree",
