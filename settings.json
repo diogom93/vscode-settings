@@ -7,7 +7,7 @@
     "editor.definitionLinkOpensInPeek": true,
     "editor.fontFamily": "Iosevka-SS02-Extended, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
