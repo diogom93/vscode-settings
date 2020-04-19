@@ -5,7 +5,7 @@
     "editor.cursorStyle": "underline",
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.definitionLinkOpensInPeek": true,
-    "editor.fontFamily": "Iosevka-SS02-Extended, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Dank Mono', 'Iosevka-SS02-Extended', 'Input Mono Narrow', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "editor.formatOnPaste": true,
@@ -28,9 +28,11 @@
     "breadcrumbs.icons": false,
     "workbench.colorTheme": "Tokyo Night",
     "workbench.iconTheme": "file-icons",
+    "workbench.settings.editor": "json",
     // Window
     "window.newWindowDimensions": "maximized",
     // Features
+    "explorer.openEditors.visible": 0,
     "search.smartCase": true,
     "debug.console.closeOnEnd": true,
     "scm.defaultViewMode": "tree",
@@ -38,7 +40,7 @@
     "terminal.integrated.confirmOnExit": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
-    "terminal.integrated.fontFamily": "Iosevka-Term-SS02",
+    "terminal.integrated.fontFamily": "'Dank Mono', 'Iosevka-SS02-Extended'",
     "terminal.integrated.fontSize": 14,
     // Extensions
     // Bracket Pair Colorizer
@@ -61,7 +63,8 @@
     "gitlens.views.search.location": "scm",
     "gitlens.views.search.enabled": false,
     // NPM
+    "npm.enableScriptExplorer": true,
     "npm.packageManager": "yarn",
-    // Prettier
-    "prettier.requireConfig": true
+    // Typescript
+    "javascript.implicitProjectConfig.checkJs": false,
 }
