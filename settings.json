@@ -10,7 +10,6 @@
     "editor.fontSize": 14,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
-    "editor.parameterHints.cycle": true,
     "editor.renderLineHighlight": "gutter",
     "editor.wordWrap": "on",
     "editor.wrappingIndent": "indent",
@@ -39,7 +38,7 @@
     "terminal.integrated.confirmOnExit": true,
     "terminal.integrated.cursorBlinking": true,
     "terminal.integrated.cursorStyle": "underline",
-    "terminal.integrated.fontFamily": "'Dank Mono', 'Iosevka-SS02-Extended'",
+    "terminal.integrated.fontFamily": "'Dank Mono', 'Iosevka-SS02-Extended', 'Input Mono Narrow', Menlo, Monaco, 'Courier New', monospace",
     "terminal.integrated.fontSize": 14,
     // Extensions
     // Bracket Pair Colorizer
