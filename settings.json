@@ -14,8 +14,10 @@
     "editor.wordWrap": "on",
     "editor.wrappingIndent": "indent",
     // Language specific editor settings
-    "[javascript, json]": {
-        "editor.insertSpaces": true,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[json]": {
         "editor.tabSize": 2
     },
     // Files
@@ -63,6 +65,10 @@
     // NPM
     "npm.enableScriptExplorer": true,
     "npm.packageManager": "yarn",
+    // Prettier
+    "prettier.packageManager": "yarn",
+    // Quokka
+    "quokka.showOutputOnStart": false,
     // Typescript
     "javascript.implicitProjectConfig.checkJs": false,
 }
