@@ -3,8 +3,6 @@
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorStyle": "underline",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.definitionLinkOpensInPeek": true,
     "editor.fontFamily": "'Dank Mono', 'Iosevka-SS02-Extended', 'Input Mono Narrow', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
@@ -15,9 +13,11 @@
     "editor.wrappingIndent": "indent",
     // Language specific editor settings
     "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.tabSize": 2
     },
     "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.tabSize": 2
     },
     // Files
